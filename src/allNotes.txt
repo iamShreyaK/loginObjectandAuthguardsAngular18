@@ -1,0 +1,3 @@
+//The selector should be comprised of atleast two header as it may clash with builtin components.
+// Angular 19 and higher standalone is true
+// 
